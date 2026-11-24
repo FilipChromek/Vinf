@@ -1,0 +1,20 @@
+{
+  "books": 9012,
+  "book_matches": {
+    "matched": 1256,
+    "ambiguous": 104,
+    "unmatched": 7652
+  },
+  "unique_wiki_books": 1239,
+  "unique_wiki_people": 1199,
+  "unique_wiki_pages_total": 2438,
+  "books_with_wiki_person": 7034,
+  "matching_rule": "exact normalized title/alias AND literary-work type; people: original Kod6 normalized full name/alias",
+  "author_checked_for_work": false,
+  "redirect_support": "one hop",
+  "step": "join",
+  "seconds": 375.559,
+  "spark_version": "4.0.1",
+  "master": "local[4]",
+  "output": "data/enriched"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "query": "title:\"Two People\"",
+    "first_id": "20260916",
+    "first_title": "Two People",
+    "first_score": 8.460049629211426
+  },
+  {
+    "query": "title:interpoll~1",
+    "first_id": "20260919",
+    "first_title": "Biggles of the Interpol (Biggles #58)",
+    "first_score": 3.3625845909118652
+  },
+  {
+    "query": "authors:sabatini AND tags:adventure",
+    "first_id": "20120628",
+    "first_title": "The Carolinian",
+    "first_score": 7.068537712097168
+  },
+  {
+    "query": "wiki_match_method:title_exact",
+    "first_id": "20100203",
+    "first_title": "Shirley",
+    "first_score": 2.969939947128296
+  },
+  {
+    "query": "wiki_match_status:ambiguous",
+    "first_id": "20140442",
+    "first_title": "Vanishing Point (Miss Silver #25)",
+    "first_score": 5.452462673187256
+  },
+  {
+    "query": "wiki_match_status:unmatched",
+    "first_id": "20080305",
+    "first_title": "Peter Pond - Fur Trader and Adventurer",
+    "first_score": 1.1635702848434448
+  },
+  {
+    "query": "title:sea NOT title:hawk",
+    "first_id": "20160230",
+    "first_title": "Sea Fog",
+    "first_score": 4.394387722015381
+  },
+  {
+    "query": "title:(sea OR captain)",
+    "first_id": "20251103",
+    "first_title": "Captain Java",
+    "first_score": 4.870231628417969
+  },
+  {
+    "query": "+title:sea -title:hawk",
+    "first_id": "20160230",
+    "first_title": "Sea Fog",
+    "first_score": 4.394387722015381
+  },
+  {
+    "query": "title:detect*",
+    "first_id": "20140334",
+    "first_title": "Freddy the Detective (Freddy the Pig #3)",
+    "first_score": 1.0
+  },
+  {
+    "query": "title:se?",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk",
+    "first_score": 1.0
+  },
+  {
+    "query": "title:/sea|hawk/",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk",
+    "first_score": 1.0
+  },
+  {
+    "query": "title:\"sea hawk\"~2",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk",
+    "first_score": 8.62257194519043
+  },
+  {
+    "query": "title:sea^3 OR title:captain",
+    "first_id": "20160230",
+    "first_title": "Sea Fog",
+    "first_score": 13.183162689208984
+  },
+  {
+    "query": "book_id:20110606",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk",
+    "first_score": 9.413275718688965
+  },
+  {
+    "query": "book_id:[20110000 TO 20119999]",
+    "first_id": "20110102",
+    "first_title": "The Tenants of Malory, Vol. 2 of 3",
+    "first_score": 1.0
+  },
+  {
+    "query": "book_id:{20110000 TO 20119999}",
+    "first_id": "20110102",
+    "first_title": "The Tenants of Malory, Vol. 2 of 3",
+    "first_score": 1.0
+  },
+  {
+    "query": "*:*",
+    "first_id": "20080305",
+    "first_title": "Peter Pond - Fur Trader and Adventurer",
+    "first_score": 1.0
+  },
+  {
+    "query": "title:sea\\-hawk",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk",
+    "first_score": 8.62257194519043
+  },
+  {
+    "query": "author=Rafael Sabatini + year=1915",
+    "first_id": "20110606",
+    "first_title": "The Sea-Hawk"
+  },
+  {
+    "query": "book_id:20120746 + wiki_year=1926",
+    "first_title": "The Incredulity of Father Brown"
+  },
+  {
+    "query": "title:*sea",
+    "expected": "leading wildcard rejected"
+  },
+  {
+    "similarity": "bm25",
+    "query": "war tribunal",
+    "first_title": "Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 05) (Blue Series #5)"
+  }
+]

@@ -1,0 +1,1 @@
+{"passed": true, "real_html_pages": 20, "synthetic_books": 11, "checks": ["title without author", "literary-work types", "no reordered or partial titles", "original name matching without initials fallback", "non-writer excluded", "repeated authors", "editors", "nested infobox", "XML input split boundary", "join and ambiguity", "Lucene phrase, fuzzy, Boolean, range"]}

@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "unit_tests": 16,
+  "synthetic_books": 11,
+  "real_documents_each_index": 9012,
+  "original_person_links_identical_to_kod6": true,
+  "original_metadata_preserved": true,
+  "work_rule": "Exact normalized title or alias and original Kod6 literary-work type; author not required.",
+  "person_rule": "Original Kod6 name and alias matching unchanged.",
+  "coverage": {
+    "books": 9012,
+    "matched_works": 1256,
+    "work_statuses": {
+      "unmatched": 7652,
+      "matched": 1256,
+      "ambiguous": 104
+    },
+    "unique_work_articles": 1239,
+    "unique_person_articles": 1199,
+    "unique_articles": 2438
+  },
+  "limitation": "Matching rules verified; not a complete bibliographic identity audit."
+}

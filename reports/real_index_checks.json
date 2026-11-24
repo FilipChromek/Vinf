@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "documents_each": 9012,
+  "stored_work_methods_and_all_wiki_sources_checked": true,
+  "plain_search_ids_and_scores_preserved": true,
+  "queries": [
+    "fiction romance",
+    "war tribunal",
+    "Rosika Storey",
+    "Agatha Christie",
+    "detective mystery"
+  ]
+}

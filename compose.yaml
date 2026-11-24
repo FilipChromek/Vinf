@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    image: vinf-books:kod11
+    working_dir: /app
+    mem_limit: 10g
+    cpus: 4
+    volumes:
+      - .:/app
+      - ./input:/input:ro
+    environment:
+      SPARK_LOCAL_IP: 127.0.0.1
+      PYTHONPATH: /app
+      PYTHONUNBUFFERED: "1"
+      VINF_QUERY: "${VINF_QUERY:-}"
+      SPARK_SUBMIT_OPTS: "-Dlog4j.configurationFile=/app/log4j2.properties"

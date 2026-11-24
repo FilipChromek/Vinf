@@ -1,0 +1,31 @@
+# External inputs and generated datasets/indexes
+/input/
+/data/
+/indexes/
+/html/
+*.bz2
+*.gz
+*.zip
+__pycache__/
+*.py[cod]
+*.log
+.sparkStaging/
+spark-warehouse/
+artifacts/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Keep selected reference reports; ignore newly generated large exports.
+/reports/*
+!/reports/comparison.tsv
+!/reports/enriched_stats.json
+!/reports/tests.json
+!/reports/final_validation.json
+!/reports/real_index_checks.json
+!/reports/version_comparison.json
+!/reports/review_observation.json
+!/reports/search_options_checked.json

@@ -1,0 +1,201 @@
+query	engine	rank	book_id	title	score	median_ms	relevant_manual
+fiction romance	old_classic	1	20161226	The Jade of Destiny	15.162525807024164	2.337	
+fiction romance	old_classic	2	20181135	Our Admirable Betty: A Romance	12.902686349004723	2.337	
+fiction romance	old_classic	3	20260716	The Shadow and Other Stories	12.902686349004723	2.337	
+fiction romance	old_classic	4	20141039	The Money Moon, A Romance	12.673616483446507	2.337	
+fiction romance	old_classic	5	20141041	The Quest of Youth	12.673616483446507	2.337	
+fiction romance	old_classic	6	20141042	The Way Beyond (The Broad Highway #3)	12.673616483446507	2.337	
+fiction romance	old_classic	7	20160511	Charmian, Lady Vibart (The Broad Highway #2)	12.673616483446507	2.337	
+fiction romance	old_classic	8	20190764	The Fool Beloved	12.673616483446507	2.337	
+fiction romance	old_classic	9	20260771	The Happy Harvest--A Romance	12.673616483446507	2.337	
+fiction romance	old_classic	10	20190132	The Young Lovell: A Romance	10.413777025427065	2.337	
+fiction romance	old_smooth	1	20161226	The Jade of Destiny	22.155146954136786	2.401	
+fiction romance	old_smooth	2	20181135	Our Admirable Betty: A Romance	19.89650398299924	2.401	
+fiction romance	old_smooth	3	20260716	The Shadow and Other Stories	19.89650398299924	2.401	
+fiction romance	old_smooth	4	20171143	Deluge	19.066341952429077	2.401	
+fiction romance	old_smooth	5	20141039	The Money Moon, A Romance	18.667462679097593	2.401	
+fiction romance	old_smooth	6	20141041	The Quest of Youth	18.667462679097593	2.401	
+fiction romance	old_smooth	7	20141042	The Way Beyond (The Broad Highway #3)	18.667462679097593	2.401	
+fiction romance	old_smooth	8	20160511	Charmian, Lady Vibart (The Broad Highway #2)	18.667462679097593	2.401	
+fiction romance	old_smooth	9	20190764	The Fool Beloved	18.667462679097593	2.401	
+fiction romance	old_smooth	10	20260771	The Happy Harvest--A Romance	18.667462679097593	2.401	
+fiction romance	lucene_plain	1	20150539	Peter Jameson: A Modern Romance	1.6447818279266357	5.817	
+fiction romance	lucene_plain	2	20130703	Venus in Boston	1.4957849979400635	5.817	
+fiction romance	lucene_plain	3	20140415	Trionfo della Morte	1.4957849979400635	5.817	
+fiction romance	lucene_plain	4	20150438	Fishpingle: A Romance of the Countryside	1.48258638381958	5.817	
+fiction romance	lucene_plain	5	20240702	The Rebel Bride	1.419026255607605	5.817	
+fiction romance	lucene_plain	6	20140810	A Daughter of Witches: A Romance	1.360514521598816	5.817	
+fiction romance	lucene_plain	7	20100212	The Poisoned Paradise: A Romance of Monte Carlo	1.360514521598816	5.817	
+fiction romance	lucene_plain	8	20121130	Rocking Moon--a Romance of Alaska	1.360514521598816	5.817	
+fiction romance	lucene_plain	9	20190130	Tales of Romance: Based on Tales in the Book of Romance	1.360514521598816	5.817	
+fiction romance	lucene_plain	10	20130823	A Forest Hearth	1.3529884815216064	5.817	
+fiction romance	lucene_wiki	1	20120922	St. Ursula's Convent (Volume 1 of 2)	1.8169546127319336	4.321	
+fiction romance	lucene_wiki	2	20140810	A Daughter of Witches: A Romance	1.7343766689300537	4.321	
+fiction romance	lucene_wiki	3	20150650	Gerald Cranston's Lady	1.7253053188323975	4.321	
+fiction romance	lucene_wiki	4	20150539	Peter Jameson: A Modern Romance	1.6447818279266357	4.321	
+fiction romance	lucene_wiki	5	20250221	The Wall of Partition	1.5966625213623047	4.321	
+fiction romance	lucene_wiki	6	20260741	The Street of the Flute-Player: A Romance	1.5792124271392822	4.321	
+fiction romance	lucene_wiki	7	20121130	Rocking Moon--a Romance of Alaska	1.523815393447876	4.321	
+fiction romance	lucene_wiki	8	20260649	The Young Man’s Girl	1.497201681137085	4.321	
+fiction romance	lucene_wiki	9	20130703	Venus in Boston	1.4957849979400635	4.321	
+fiction romance	lucene_wiki	10	20140415	Trionfo della Morte	1.4957849979400635	4.321	
+war tribunal	old_classic	1	20230747	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 16) (Blue Series #16)	31.306877005641176	0.571	
+war tribunal	old_classic	2	20160208	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 01) (Blue Series #1)	29.693881952951184	0.571	
+war tribunal	old_classic	3	20170225	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 03) (Blue Series #3)	29.693881952951184	0.571	
+war tribunal	old_classic	4	20170348	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 04) (Blue Series #4)	29.693881952951184	0.571	
+war tribunal	old_classic	5	20170620	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 05) (Blue Series #5)	29.693881952951184	0.571	
+war tribunal	old_classic	6	20170709	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 06) (Blue Series #6)	29.693881952951184	0.571	
+war tribunal	old_classic	7	20170912	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 07) (Blue Series #7)	29.693881952951184	0.571	
+war tribunal	old_classic	8	20200917	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 08) (Blue Series #8)	29.693881952951184	0.571	
+war tribunal	old_classic	9	20201023	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 09) (Blue Series #9)	29.693881952951184	0.571	
+war tribunal	old_classic	10	20210358	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 10) (Blue Series #10)	29.693881952951184	0.571	
+war tribunal	old_smooth	1	20190753	Life's Adventure	41.80078994836561	0.56	
+war tribunal	old_smooth	2	20200358	The Interpreter	41.80078994836561	0.56	
+war tribunal	old_smooth	3	20200974	The Reckless Lady	41.80078994836561	0.56	
+war tribunal	old_smooth	4	20230721	Through the Storm	41.80078994836561	0.56	
+war tribunal	old_smooth	5	20230747	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 16) (Blue Series #16)	40.15962185238908	0.56	
+war tribunal	old_smooth	6	20171221	Both Your Houses	39.18824057659276	0.56	
+war tribunal	old_smooth	7	20180103	The Battle Within	39.18824057659276	0.56	
+war tribunal	old_smooth	8	20180321	The Middle of the Road	39.18824057659276	0.56	
+war tribunal	old_smooth	9	20230431	European Journey	39.18824057659276	0.56	
+war tribunal	old_smooth	10	20160208	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 01) (Blue Series #1)	37.54707248061623	0.56	
+war tribunal	lucene_plain	1	20170620	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 05) (Blue Series #5)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	2	20170225	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 03) (Blue Series #3)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	3	20170912	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 07) (Blue Series #7)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	4	20160208	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 01) (Blue Series #1)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	5	20170348	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 04) (Blue Series #4)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	6	20170709	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 06) (Blue Series #6)	1.9101327657699585	1.835	
+war tribunal	lucene_plain	7	20200917	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 08) (Blue Series #8)	1.7684391736984253	1.835	
+war tribunal	lucene_plain	8	20201023	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 09) (Blue Series #9)	1.7084746360778809	1.835	
+war tribunal	lucene_plain	9	20160321	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 02) (Blue Series #2)	1.6545519828796387	1.835	
+war tribunal	lucene_plain	10	20171224	Nazi Conspiracy and Aggression (Vol. 2) (Red Series #2)	1.6542234420776367	1.835	
+war tribunal	lucene_wiki	1	20170620	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 05) (Blue Series #5)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	2	20170225	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 03) (Blue Series #3)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	3	20170912	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 07) (Blue Series #7)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	4	20160208	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 01) (Blue Series #1)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	5	20170348	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 04) (Blue Series #4)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	6	20170709	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 06) (Blue Series #6)	1.9101327657699585	2.566	
+war tribunal	lucene_wiki	7	20200917	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 08) (Blue Series #8)	1.7684391736984253	2.566	
+war tribunal	lucene_wiki	8	20201023	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 09) (Blue Series #9)	1.7084746360778809	2.566	
+war tribunal	lucene_wiki	9	20160321	Trial of the Major War Criminals Before the International Military Tribunal: Nuremberg 14 November 1945-1 October 1946 (Vol. 02) (Blue Series #2)	1.6545519828796387	2.566	
+war tribunal	lucene_wiki	10	20171224	Nazi Conspiracy and Aggression (Vol. 2) (Red Series #2)	1.6542234420776367	2.566	
+Rosika Storey	old_classic	1	20141054	The Under Dogs (Madame Storey #2)	57.0183664935868	0.021	
+Rosika Storey	old_classic	2	20141055	The Velvet Hand. New Madame Storey Mysteries (Madame Storey #3)	56.99856386629062	0.021	
+Rosika Storey	old_classic	3	20141048	The Almost Perfect Murder. A Case Book of Madame Storey (Madame Storey #7)	56.97876123899444	0.021	
+Rosika Storey	old_classic	4	20141053	Madame Storey (Madame Storey #1)	51.784471942870454	0.021	
+Rosika Storey	old_classic	5	20141049	The Doctor Who Held Hands. A Madame Storey Novel (Madame Storey #4)	46.60998527404264	0.021	
+Rosika Storey	old_classic	6	20141050	The Kidnapping of Madame Storey and Other Stories (Madame Storey)	46.60998527404264	0.021	
+Rosika Storey	old_classic	7	20140834	Easy to Kill (Madame Storey #5)	41.43549860521483	0.021	
+Rosika Storey	old_classic	8	20201267	The Casual Murderer and other stories (Madame Storey #6)	41.43549860521483	0.021	
+Rosika Storey	old_classic	9	20200144	The Handsome Young Men	36.26101193638702	0.021	
+Rosika Storey	old_classic	10	20210140	Dangerous Cargo (Madame Storey #8)	36.26101193638702	0.021	
+Rosika Storey	old_smooth	1	20141054	The Under Dogs (Madame Storey #2)	67.80406536901032	0.02	
+Rosika Storey	old_smooth	2	20141055	The Velvet Hand. New Madame Storey Mysteries (Madame Storey #3)	67.78464728315322	0.02	
+Rosika Storey	old_smooth	3	20141048	The Almost Perfect Murder. A Case Book of Madame Storey (Madame Storey #7)	67.76522919729611	0.02	
+Rosika Storey	old_smooth	4	20141053	Madame Storey (Madame Storey #1)	61.59063157146403	0.02	
+Rosika Storey	old_smooth	5	20141049	The Doctor Who Held Hands. A Madame Storey Novel (Madame Storey #4)	55.43545203148905	0.02	
+Rosika Storey	old_smooth	6	20141050	The Kidnapping of Madame Storey and Other Stories (Madame Storey)	55.43545203148905	0.02	
+Rosika Storey	old_smooth	7	20140834	Easy to Kill (Madame Storey #5)	49.28027249151407	0.02	
+Rosika Storey	old_smooth	8	20201267	The Casual Murderer and other stories (Madame Storey #6)	49.28027249151407	0.02	
+Rosika Storey	old_smooth	9	20200144	The Handsome Young Men	43.12509295153908	0.02	
+Rosika Storey	old_smooth	10	20210140	Dangerous Cargo (Madame Storey #8)	43.12509295153908	0.02	
+Rosika Storey	lucene_plain	1	20141048	The Almost Perfect Murder. A Case Book of Madame Storey (Madame Storey #7)	2.40991473197937	1.532	
+Rosika Storey	lucene_plain	2	20141050	The Kidnapping of Madame Storey and Other Stories (Madame Storey)	2.211235523223877	1.532	
+Rosika Storey	lucene_plain	3	20141054	The Under Dogs (Madame Storey #2)	2.04239821434021	1.532	
+Rosika Storey	lucene_plain	4	20141049	The Doctor Who Held Hands. A Madame Storey Novel (Madame Storey #4)	2.0291688442230225	1.532	
+Rosika Storey	lucene_plain	5	20141055	The Velvet Hand. New Madame Storey Mysteries (Madame Storey #3)	2.0247488021850586	1.532	
+Rosika Storey	lucene_plain	6	20210140	Dangerous Cargo (Madame Storey #8)	1.9883487224578857	1.532	
+Rosika Storey	lucene_plain	7	20220470	Antennae	1.9793187379837036	1.532	
+Rosika Storey	lucene_plain	8	20220518	Cap'n Sue	1.901667833328247	1.532	
+Rosika Storey	lucene_plain	9	20200144	The Handsome Young Men	1.8746333122253418	1.532	
+Rosika Storey	lucene_plain	10	20180772	Ramshackle House	1.8324929475784302	1.532	
+Rosika Storey	lucene_wiki	1	20141048	The Almost Perfect Murder. A Case Book of Madame Storey (Madame Storey #7)	2.40991473197937	1.49	
+Rosika Storey	lucene_wiki	2	20141050	The Kidnapping of Madame Storey and Other Stories (Madame Storey)	2.211235523223877	1.49	
+Rosika Storey	lucene_wiki	3	20141054	The Under Dogs (Madame Storey #2)	2.04239821434021	1.49	
+Rosika Storey	lucene_wiki	4	20141049	The Doctor Who Held Hands. A Madame Storey Novel (Madame Storey #4)	2.0291688442230225	1.49	
+Rosika Storey	lucene_wiki	5	20141055	The Velvet Hand. New Madame Storey Mysteries (Madame Storey #3)	2.0247488021850586	1.49	
+Rosika Storey	lucene_wiki	6	20210140	Dangerous Cargo (Madame Storey #8)	1.9883487224578857	1.49	
+Rosika Storey	lucene_wiki	7	20220470	Antennae	1.9793187379837036	1.49	
+Rosika Storey	lucene_wiki	8	20220518	Cap'n Sue	1.901667833328247	1.49	
+Rosika Storey	lucene_wiki	9	20200144	The Handsome Young Men	1.8746333122253418	1.49	
+Rosika Storey	lucene_wiki	10	20180772	Ramshackle House	1.8324929475784302	1.49	
+Agatha Christie	old_classic	1	20121035	The Red Mass	24.24010397560399	0.033	
+Agatha Christie	old_classic	2	20180207	Masks Off at Midnight (Sergeant Trevor Dene #3)	24.24010397560399	0.033	
+Agatha Christie	old_classic	3	20180412	Clubfoot the Avenger (Dr. Adolph Grundt #3)	24.24010397560399	0.033	
+Agatha Christie	old_classic	4	20180637	Dead Man Manor	24.24010397560399	0.033	
+Agatha Christie	old_classic	5	20190434	Mannequin [AKA The Mysterious Miss Morrisot]	24.24010397560399	0.033	
+Agatha Christie	old_classic	6	20220710	The Clock Ticks On (Sergeant Trevor Dene #2)	24.24010397560399	0.033	
+Agatha Christie	old_classic	7	20240103	Fog	24.24010397560399	0.033	
+Agatha Christie	old_classic	8	20260764	The Orange Divan	24.24010397560399	0.033	
+Agatha Christie	old_classic	9	20110706	The Frightened Wife and Other Murder Stories	9.570562429642163	0.033	
+Agatha Christie	old_classic	10	20200958	The Yellow Room	9.570562429642163	0.033	
+Agatha Christie	old_smooth	1	20121035	The Red Mass	29.167279422293856	0.033	
+Agatha Christie	old_smooth	2	20180207	Masks Off at Midnight (Sergeant Trevor Dene #3)	29.167279422293856	0.033	
+Agatha Christie	old_smooth	3	20180412	Clubfoot the Avenger (Dr. Adolph Grundt #3)	29.167279422293856	0.033	
+Agatha Christie	old_smooth	4	20180637	Dead Man Manor	29.167279422293856	0.033	
+Agatha Christie	old_smooth	5	20190434	Mannequin [AKA The Mysterious Miss Morrisot]	29.167279422293856	0.033	
+Agatha Christie	old_smooth	6	20220710	The Clock Ticks On (Sergeant Trevor Dene #2)	29.167279422293856	0.033	
+Agatha Christie	old_smooth	7	20240103	Fog	29.167279422293856	0.033	
+Agatha Christie	old_smooth	8	20260764	The Orange Divan	29.167279422293856	0.033	
+Agatha Christie	old_smooth	9	20110706	The Frightened Wife and Other Murder Stories	11.543103927236299	0.033	
+Agatha Christie	old_smooth	10	20200958	The Yellow Room	11.543103927236299	0.033	
+Agatha Christie	lucene_plain	1	20240702	The Rebel Bride	1.9230035543441772	0.989	
+Agatha Christie	lucene_plain	2	20250922	Writing is Work	1.324084758758545	0.989	
+Agatha Christie	lucene_plain	3	20201128	Lady Godiva at the Springs	1.259455919265747	0.989	
+Agatha Christie	lucene_plain	4	20110706	The Frightened Wife and Other Murder Stories	1.230499029159546	0.989	
+Agatha Christie	lucene_plain	5	20200970	The Prize Pumpkin Pie	1.1781132221221924	0.989	
+Agatha Christie	lucene_plain	6	20201025	The Altar of Freedom	1.1781132221221924	0.989	
+Agatha Christie	lucene_plain	7	20211025	Episode of the Wandering Knife (Hilda Adams #5)	1.1318943500518799	0.989	
+Agatha Christie	lucene_plain	8	20220969	Grandfather Bixby, Nurse	1.1318943500518799	0.989	
+Agatha Christie	lucene_plain	9	20200977	At the Foot of the Hill	1.0537363290786743	0.989	
+Agatha Christie	lucene_plain	10	20260749	Temperamental People	1.0537363290786743	0.989	
+Agatha Christie	lucene_wiki	1	20240702	The Rebel Bride	3.0549323558807373	1.462	
+Agatha Christie	lucene_wiki	2	20250922	Writing is Work	2.3441052436828613	1.462	
+Agatha Christie	lucene_wiki	3	20201128	Lady Godiva at the Springs	2.2794761657714844	1.462	
+Agatha Christie	lucene_wiki	4	20110706	The Frightened Wife and Other Murder Stories	2.250519275665283	1.462	
+Agatha Christie	lucene_wiki	5	20200970	The Prize Pumpkin Pie	2.1981334686279297	1.462	
+Agatha Christie	lucene_wiki	6	20201025	The Altar of Freedom	2.1981334686279297	1.462	
+Agatha Christie	lucene_wiki	7	20211025	Episode of the Wandering Knife (Hilda Adams #5)	2.1519148349761963	1.462	
+Agatha Christie	lucene_wiki	8	20220969	Grandfather Bixby, Nurse	2.1519148349761963	1.462	
+Agatha Christie	lucene_wiki	9	20200977	At the Foot of the Hill	2.073756694793701	1.462	
+Agatha Christie	lucene_wiki	10	20260749	Temperamental People	2.073756694793701	1.462	
+detective mystery	old_classic	1	20240103	Fog	19.991131093855955	0.533	
+detective mystery	old_classic	2	20260764	The Orange Divan	19.991131093855955	0.533	
+detective mystery	old_classic	3	20201272	The Mystery of the 99 Steps (Nancy Drew Mystery #43)	19.094665545606944	0.533	
+detective mystery	old_classic	4	20121035	The Red Mass	18.018912513496687	0.533	
+detective mystery	old_classic	5	20170117	The Mill House Murder: Being the Last of the Adventures of Ronald Camberwell [Todmanhawe Grange] (Ronald Camberwell #10)	18.018912513496687	0.533	
+detective mystery	old_classic	6	20170702	Antidote to Venom (Inspector French #17)	18.018912513496687	0.533	
+detective mystery	old_classic	7	20180207	Masks Off at Midnight (Sergeant Trevor Dene #3)	18.018912513496687	0.533	
+detective mystery	old_classic	8	20180637	Dead Man Manor	18.018912513496687	0.533	
+detective mystery	old_classic	9	20181039	Charlie Chan Carries On (Charlie Chan #5)	18.018912513496687	0.533	
+detective mystery	old_classic	10	20190147	The 12.30 from Croydon (Inspector French #11)	18.018912513496687	0.533	
+detective mystery	old_smooth	1	20240103	Fog	28.98270288141158	0.515	
+detective mystery	old_smooth	2	20260764	The Orange Divan	28.98270288141158	0.515	
+detective mystery	old_smooth	3	20201272	The Mystery of the 99 Steps (Nancy Drew Mystery #43)	28.08713839401284	0.515	
+detective mystery	old_smooth	4	20121035	The Red Mass	26.011170474421053	0.515	
+detective mystery	old_smooth	5	20170117	The Mill House Murder: Being the Last of the Adventures of Ronald Camberwell [Todmanhawe Grange] (Ronald Camberwell #10)	26.011170474421053	0.515	
+detective mystery	old_smooth	6	20170702	Antidote to Venom (Inspector French #17)	26.011170474421053	0.515	
+detective mystery	old_smooth	7	20180207	Masks Off at Midnight (Sergeant Trevor Dene #3)	26.011170474421053	0.515	
+detective mystery	old_smooth	8	20180637	Dead Man Manor	26.011170474421053	0.515	
+detective mystery	old_smooth	9	20181039	Charlie Chan Carries On (Charlie Chan #5)	26.011170474421053	0.515	
+detective mystery	old_smooth	10	20190147	The 12.30 from Croydon (Inspector French #11)	26.011170474421053	0.515	
+detective mystery	lucene_plain	1	20210106	The Password to Larkspur Lane (Nancy Drew Mystery #10)	1.4728686809539795	1.279	
+detective mystery	lucene_plain	2	20180623	The Wagoner's Halt Mystery	1.4352859258651733	1.279	
+detective mystery	lucene_plain	3	20210553	The Sign of the Twisted Candles (Nancy Drew Mystery #9)	1.3732736110687256	1.279	
+detective mystery	lucene_plain	4	20201148	Nancy's Mysterious Letter (Nancy Drew Mystery #8)	1.320948839187622	1.279	
+detective mystery	lucene_plain	5	20200635	Mystery in Red	1.2660475969314575	1.279	
+detective mystery	lucene_plain	6	20230509	The Scarlet Scourge--A Detective Story	1.1974005699157715	1.279	
+detective mystery	lucene_plain	7	20201247	The Secret of the Wooden Lady (Nancy Drew Mystery #27)	1.1404528617858887	1.279	
+detective mystery	lucene_plain	8	20210102	The Mystery at the Ski Jump (Nancy Drew Mystery #29)	1.1359308958053589	1.279	
+detective mystery	lucene_plain	9	20130756	The Four-Pools Mystery	1.122231125831604	1.279	
+detective mystery	lucene_plain	10	20260812	The Corpse on the Bridge	1.1156213283538818	1.279	
+detective mystery	lucene_wiki	1	20230334	The Mystery of Cabin Island (Hardy Boys #8)	1.9425866603851318	1.567	
+detective mystery	lucene_wiki	2	20260419	Detective Ben (Ben the Tramp #6)	1.7939989566802979	1.567	
+detective mystery	lucene_wiki	3	20240415	The Secret of the Caves (Hardy Boys #7)	1.7815701961517334	1.567	
+detective mystery	lucene_wiki	4	20210106	The Password to Larkspur Lane (Nancy Drew Mystery #10)	1.7588543891906738	1.567	
+detective mystery	lucene_wiki	5	20170833	Thirteen Guests (Inspector Kendall #1)	1.7513222694396973	1.567	
+detective mystery	lucene_wiki	6	20190506	Seven Dead (Inspector Kendall #2)	1.7360622882843018	1.567	
+detective mystery	lucene_wiki	7	20160527	They Can Only Hang You Once	1.7242920398712158	1.567	
+detective mystery	lucene_wiki	8	20201247	The Secret of the Wooden Lady (Nancy Drew Mystery #27)	1.7124241590499878	1.567	
+detective mystery	lucene_wiki	9	20190740	The House Opposite (Ben the Tramp #2)	1.708126425743103	1.567	
+detective mystery	lucene_wiki	10	20210520	The Gatewood Caper	1.6929945945739746	1.567	
